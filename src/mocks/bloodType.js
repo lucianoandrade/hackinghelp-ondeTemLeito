@@ -1,0 +1,26 @@
+export const BloodType = [
+    {
+        type:"A+",
+    },
+    {
+        type:"A-",
+    },
+    {
+        type:"AB+",
+    },
+    {
+        type:"AB-",
+    },
+    {
+        type:"B+",
+    },
+    {
+        type:"B-",
+    },
+    {
+        type:"O+",
+    },
+    {
+        type:"O-",
+    },
+]
